@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "uiBQXI9xOmNRBWIhUqhDWFElkhmjl9LgQbPoH3XGs+2evA8JW4ELCetNrMMKp0VEpc6t2zJRtQONWDC5s025kg==",
+  "success": true,
+  "projectFilePath": "D:\\sbogu\\Documents\\Repos\\VisualStudio2019\\Corregidor2020Back\\Corregidor2020Back.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sbogu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.0.0\\microsoft.aspnetcore.jsonpatch.3.0.0.nupkg.sha512",
+    "C:\\Users\\sbogu\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.0.0\\microsoft.aspnetcore.mvc.newtonsoftjson.3.0.0.nupkg.sha512",
+    "C:\\Users\\sbogu\\.nuget\\packages\\microsoft.csharp\\4.6.0\\microsoft.csharp.4.6.0.nupkg.sha512",
+    "C:\\Users\\sbogu\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\sbogu\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512",
+    "C:\\Users\\sbogu\\.nuget\\packages\\sendgrid\\9.19.0\\sendgrid.9.19.0.nupkg.sha512",
+    "C:\\Users\\sbogu\\.nuget\\packages\\starkbank-ecdsa\\1.2.0\\starkbank-ecdsa.1.2.0.nupkg.sha512"
+  ],
+  "logs": []
+}
